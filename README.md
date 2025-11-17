@@ -20,21 +20,23 @@ Modulate Signal: Apply the AM formula to obtain the modulated signal.
 Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 ## Program:
+<img width="452" height="423" alt="image" src="https://github.com/user-attachments/assets/2293d91c-fefd-4814-9b6a-995e4c366408" />
 
-<img width="415" height="496" alt="image" src="https://github.com/user-attachments/assets/0cb77991-0124-468c-b0e0-1f590b982769" />
-
+ 
 ## Output Waveform:
 
-<img width="734" height="545" alt="image" src="https://github.com/user-attachments/assets/83dc7f77-7a02-49d5-a248-f8fc8c7f99bb" />
+ <img width="777" height="549" alt="image" src="https://github.com/user-attachments/assets/baa299ab-2202-4003-af33-0f8759b8a347" />
+
 
 ## Tabular column:
 
-<img width="1280" height="713" alt="image" src="https://github.com/user-attachments/assets/5767a393-3b30-4aba-8f78-fb642aa913c9" />
+ <img width="1280" height="713" alt="image" src="https://github.com/user-attachments/assets/ee92585a-9a2d-46d1-956e-619b5e6b748d" />
 
 
 ## Calculation:
-![WhatsApp Image 2025-11-17 at 14 31 10_c80c8efa](https://github.com/user-attachments/assets/755ab2d7-e2d7-45d1-b358-3c315fc55263)
+ 
 
+<img width="834" height="1280" alt="image" src="https://github.com/user-attachments/assets/69706ad2-87d6-4c17-872f-063ac523e2ee" />
 
 ## Result:
 The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots.Thus,AM is implemented using python.
